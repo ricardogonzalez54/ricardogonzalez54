@@ -75,7 +75,7 @@ Focused on creating reliable, scalable systems that solve real operational chall
 
 ## 📫 Contact
 
-<a href="https://www.linkedin.com/in/ricardo-gonzález-fritz/" target="_blank">
+<a href="https://www.linkedin.com/in/ricardo-gonz%C3%A1lez-fritz-325264283/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
 </a>
 
